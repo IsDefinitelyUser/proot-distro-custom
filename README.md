@@ -1,5 +1,5 @@
-## IsDefinitelyUser/proot-distro-custom
-### Branch: master
+## [Repository] proot-distro-custom
+### [Branch] master
 https://github.com/IsDefinitelyUser/proot-distro-custom
 ***
 
