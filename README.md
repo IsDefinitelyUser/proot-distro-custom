@@ -1,6 +1,4 @@
-## [Repository] proot-distro-custom
-### [Branch] master
-https://github.com/IsDefinitelyUser/proot-distro-custom
+## [proot-distro-custom (master)](https://github.com/IsDefinitelyUser/proot-distro-custom)
 ***
 
 ### Instructions:
