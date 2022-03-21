@@ -1,9 +1,9 @@
-##IsDefinitelyUser/proot-distro-custom
-###Branch: master
+## IsDefinitelyUser/proot-distro-custom
+### Branch: master
 https://github.com/IsDefinitelyUser/proot-distro-custom
 ***
 
-###Instructions:
+### Instructions:
 
 If you want to add more install options to `[proot-distro](https://github.com/termux/proot-distro)`:
 
