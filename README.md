@@ -3,7 +3,7 @@
 
 ### Instructions:
 
-If you want to add more install options to [`proot-distro`](https://github.com/termux/proot-distro):
+If you want to add more install options to [`proot-distro`](https://github.com/termux/proot-distro), then run these commands from the repository directory:
 
 
 *	Make "install-custom.sh" executable by running:
