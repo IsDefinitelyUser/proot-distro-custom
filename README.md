@@ -1,10 +1,11 @@
-Repository: IsDefinitelyUser/proot-distro-custom
-Branch: master
-Link: https://github.com/IsDefinitelyUser/proot-distro-custom
+##IsDefinitelyUser/proot-distro-custom
+###Branch: master
+https://github.com/IsDefinitelyUser/proot-distro-custom
+***
 
-Instructions:
+###Instructions:
 
-If you want to add more install options to `proot-distro`:
+If you want to add more install options to `[proot-distro](https://github.com/termux/proot-distro)`:
 
 • Make "install-custom.sh" executable by running:
 `chmod +x install-custom.sh`
