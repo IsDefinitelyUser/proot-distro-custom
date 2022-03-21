@@ -4,7 +4,7 @@ Link: https://github.com/IsDefinitelyUser/proot-distro-custom
 
 Instructions:
 
-If you want to add more install options to the `proot-distro install` command:
+If you want to add more install options to `proot-distro`:
 
 • Make "install-custom.sh" executable by running:
 `chmod +x install-custom.sh`
